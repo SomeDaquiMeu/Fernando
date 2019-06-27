@@ -1,0 +1,92 @@
+{ "comment": "",
+
+ "goku": {
+  "name": "goku.png",
+  "x": 628,  "y": 3034,
+  "width": 167, "height": 151
+}
+
+,"ImperialBR": {
+  "name": "ImperialBR.png",
+  "x": 1463,  "y": 2591,
+  "width": 708, "height": 423
+}
+
+,"lobao-zone": {
+  "name": "lobao-zone.png",
+  "x": 658,  "y": 701,
+  "width": 340, "height": 270
+}
+
+,"world": {
+  "name": "world-01template.png",
+  "x": -273,  "y": 1728,
+  "width": 1363, "height": 635
+}
+
+,"MegaBR": {
+  "name": "MegaBR.png",
+  "x": 2153,  "y": 3105,
+  "width": 1943, "height": 991
+}
+
+,"turkey_big": {
+  "name": "turkey_big.png",
+  "x": -4096,  "y": 3295,
+  "width": 1307, "height": 802
+}
+
+,"itfull": {
+  "name": "itfull.png",
+  "x": -1851,  "y": -233,
+  "width": 1251, "height": 744
+}
+
+,"kuri1": {
+  "name": "kuri1.png",
+  "x": 1560,  "y": 2392,
+  "width": 113, "height": 113
+}
+
+,"kuri2": {
+  "name": "kuri2.png",
+  "x": 886,  "y": 248,
+  "width": 136, "height": 272
+}
+
+,"sla": {
+  "name": "sla.png",
+  "x": 1102,  "y": 2577,
+  "width": 308, "height": 198
+}
+
+,"matata": {
+  "name": "matata.png",
+  "x": 1344,  "y": -1088,
+  "width": 192, "height": 141
+}
+
+,"ukflag": {
+  "name": "ukflag.png",
+  "x": -1194,  "y": 3268,
+  "width": 721, "height": 406
+}
+
+,"discord-1": {
+  "name": "discord-1.png",
+  "x": 2702,  "y": 3010,
+  "width": 846, "height": 95
+}
+
+,"raff_zone1": {
+  "name": "raff_zone1.png",
+  "x": 1323,  "y": 682,
+  "width": 142, "height": 204
+}
+
+
+
+
+
+
+}
