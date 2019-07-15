@@ -1,9 +1,9 @@
 { "comment": "",
 
- "goku": {
-  "name": "goku.png",
-  "x": 628,  "y": 3034,
-  "width": 167, "height": 151
+ "atkbase": {
+  "name": "atkbase.png",
+  "x": 318,  "y": 3035,
+  "width": 476, "height": 337
 }
 
 ,"ImperialBR": {
@@ -124,6 +124,12 @@
   "name": "guerreira.png",
   "x": 1463,  "y": 2220,
   "width": 400 , "height": 400
+}
+
+,"senna": {
+  "name": "senna.png",
+  "x": 327,  "y": 440,
+  "width": 202 , "height": 202
 }
 
 
