@@ -136,6 +136,13 @@
   "name": "chaveszone.png",
   "x": -3409,  "y": 122,
   "width": 300 , "height": 300
+
+}
+
+,"void": {
+  "name": ".png",
+  "x": -449,  "y": -449,
+  "width": 1312 , "height": 888
 }
 
 
