@@ -142,13 +142,23 @@
   "name": "void.png",
   "x": -449,  "y": -449,
   "width": 1312 , "height": 888
+ }
+
+,"zone1": {
+  "name": "zone1.png",
+  "x": -1851,  "y": 511,
+  "width": 156 , "height": 80
+ }
+
+,"zone2": {
+  "name": "zone2.png",
+  "x": -602,  "y": -233,
+  "width": 154 , "height": 496
+ }
+
+,"zone3": {
+  "name": "zone3.png",
+  "x": -4096,  "y": -4096,
+  "width": 5237 , "height": 6566
 }
-
-
-
-
-
-
-
-
 }
